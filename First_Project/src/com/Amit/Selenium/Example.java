@@ -9,5 +9,5 @@ public class Example {
   
 	
 	// below is unimplemented method 
-	public void check();
+	//public void check();
 }
